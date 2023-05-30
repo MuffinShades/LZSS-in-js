@@ -1,3 +1,6 @@
+/*
+Written by muffinshades (Twitter) or MuffinShades (Github)
+*/
 let LZSS = {
     look_ahead: 256,
     b_buffer: 2**15,
